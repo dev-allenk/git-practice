@@ -1,3 +1,3 @@
 # git-practices by michelle
 
-첫 문장을 추가해봅시다.
+첫 문장을 추가해봅시당. merged도 안됐는데 그냥 step2 브랜치를 만들었어요.
