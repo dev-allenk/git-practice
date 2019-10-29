@@ -3,6 +3,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 let count = 0;
 console.log('test');
 // update travis.yml
+// add feature2
 function App() {
   const [num, setNum] = useState(0);
   const result = useCalculate(num);
