@@ -2,6 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 
 let count = 0;
 console.log('test');
+console.log('test');
 function App() {
   const [num, setNum] = useState(0);
   const result = useCalculate(num);
